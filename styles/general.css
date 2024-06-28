@@ -1,0 +1,11 @@
+html {
+    height: 3000px;
+
+}
+
+body {
+    background: url(/spotlight.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
